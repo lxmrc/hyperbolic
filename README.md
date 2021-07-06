@@ -1,24 +1,3 @@
-# README
+>The Hyperbolic Time Chamber is a place where one can train and get stronger in a short amount of time. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Currently just an in-browser editor that can execute code on the server-side in containers. Eventually a platform for practicing programming using spaced repetition through "executable flashcards".
